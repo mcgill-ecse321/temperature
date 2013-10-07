@@ -22,11 +22,13 @@
      that you may have to choose multiple test data for each of the above
      test cases. 
 
-5. While running the above test cases, if you find bugs in the
+3. While running the above test cases, if you find bugs in the
    `Temeprature` class, you are allowed to modify the `Temperature`
    class appropriately. 
 
-6. Tag your final code with tag `assignment-2` and **submit the Git URL** of
-   your repository. 
+4. Tag your final code with tag `assignment-2` and **submit the Git URL** of
+   your repository. Your rationale for choosing the test data should be described
+   in the code comments.
+
     
 
