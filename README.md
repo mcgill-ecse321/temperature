@@ -1,4 +1,4 @@
-- **title**: Assignment 2
+- **title**: Assignment 3
 - **subtitle**: Unit testing
 - **due**: 14 Oct, 2013
 - **marks**: 10 marks
